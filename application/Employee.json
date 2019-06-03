@@ -1,0 +1,23 @@
+
+
+{
+  "employees": [{
+      "name": "nagaraju",
+      "email": "nagaraju@gmail.com",
+      "pwd": "123455",
+      "age":"21"
+  },
+  {
+      "name": "feroz",
+      "email": "feroj@gmail.com",
+      "pwd": "125",
+      "age":"34"
+ 
+  },{
+      "name": "suraj",
+      "email": "suraj@gmail.com",
+      "pwd": "435",
+      "age":"23"
+ 
+  }]
+}
